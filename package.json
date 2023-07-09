@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@fastify/cors": "^8.3.0",
+    "@iptv/playlist": "^0.0.3",
+    "fastify": "^4.19.2"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "name": "iptv-manager-api",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Damokless/iptv-manager-api.git",
+  "author": "Damokless <damokless@protonmail.com>",
+  "license": "MIT"
+}
